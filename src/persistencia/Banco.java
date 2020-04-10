@@ -303,6 +303,7 @@ public class Banco {
     }
     
     public void gerarDados(){
+        
         Cliente cliente = new Cliente();
         cliente.setCpf("000.000.000-00");
         cliente.setNome("Padrão");
